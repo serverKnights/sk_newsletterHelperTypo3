@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+/var/*
+/vendor
+/public/*
+!/public/.htaccess
+!/public/typo3conf/LocalConfiguration.php
+!/public/typo3conf/AdditionalConfiguration.php
+/packages/*
+!/.ddev
+composer.lock
